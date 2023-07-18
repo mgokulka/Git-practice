@@ -2,3 +2,5 @@ a sample of git test
 
 
 this is the second file change
+
+this is third change and in forth change we will delete second change
